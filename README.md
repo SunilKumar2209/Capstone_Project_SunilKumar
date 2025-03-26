@@ -1,5 +1,5 @@
 # sk2209
-# Capstone Project: Western Countries Sales Data Analysis
+# Capstone Project: Western Countries Financial Data Analysis
 This project involves a comprehensive analysis of Western Countries Financial Data, leveraging various tools to extract insights and visualize trends.
 # Project Overview
 - Data cleaning and summarization using Excel
